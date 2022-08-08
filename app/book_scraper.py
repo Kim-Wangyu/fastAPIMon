@@ -1,5 +1,5 @@
 import asyncio
-from config import get_secret
+from app.config import get_secret
 import aiohttp
 import asyncio
 
